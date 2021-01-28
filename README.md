@@ -1,2 +1,2 @@
-# Repositorio-para-introducci-n-a-la-programaci-n
+# Intro_Progra
 Repositorio para introducción a la programación 
